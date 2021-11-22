@@ -1,0 +1,28 @@
+#CORES TERMINAL PYTHON
+
+\033[codigoCORmtexto\033[m
+codigoCOR = style;textcolor;backgroundcolor
+
+style = 0 None
+style = 1 bold
+style = 4 underline
+style = 7 negative
+=========================================
+textColor = 30 branco
+textColor = 31 vermelho
+textColor = 32 verde
+textColor = 33 amarelo
+textColor = 34 azul
+textColor = 35 roxo
+textColor = 36 azul marinho
+textColor = 37 cinza
+========================================
+backgroundColor = 40 branco
+backgroundColor = 41 vermelho
+backgroundColor = 42 verde
+backgroundColor = 43 amarelo
+backgroundColor = 44 azul
+backgroundColor = 45 roxo
+backgroundColor = 46 azul marinho
+backgroundColor = 47 cinza
+========================================
